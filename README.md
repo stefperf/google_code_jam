@@ -1,1 +1,1 @@
-My Python solutions to a few select problems from past editions of Google code jam initial rounds.
+To keep my programming skills sharp while having fun, I have been solving a few select problems from the archive of Google Code Jam competitions.
